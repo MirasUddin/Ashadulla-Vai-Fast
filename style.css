@@ -1,0 +1,19 @@
+h{
+    color: blueviolet;
+    background-color: orange;
+}
+p{
+    color: brown;
+}
+.in-pass{
+    background-color: aqua;
+
+}
+.in-pass:hover{
+    background-color: orange;
+    border-radius: 10px;
+    color: rgb(70, 20, 235);
+}
+.input{
+    background-color: aquamarine;
+}
